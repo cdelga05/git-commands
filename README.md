@@ -8,6 +8,8 @@ git status
 
 How do we stage all our files at once: 
 
+https://github.com/cdelga05/git-commands.
+
 git add . 
 
 How do I bring all of the staged files into the repo:
